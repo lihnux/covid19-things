@@ -7,7 +7,9 @@
 
 ## 新冠后遗症/长新冠/LONG COVID
 
-### 相关研究
+### 相关研究与报道
+- [解码Long COVID：过度活跃的炎症是问题的关键吗?](https://www.cnbeta.com.tw/articles/science/1365295.htm)
+  - [相关研究文章｜Persistent serum protein signatures define an inflammatory subcategory of long COVID](https://www.nature.com/articles/s41467-023-38682-4)  
 
 ### 治疗的案例
 
