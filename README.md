@@ -13,7 +13,8 @@
 ### 相关研究与报道
 - [解码Long COVID：过度活跃的炎症是问题的关键吗?](https://www.cnbeta.com.tw/articles/science/1365295.htm)
   - [相关研究文章｜Persistent serum protein signatures define an inflammatory subcategory of long COVID](https://www.nature.com/articles/s41467-023-38682-4)
-- [美国农业部发布白尾鹿与人类之间COVID-19传播研究报告](https://www.cnbeta.com.tw/articles/science/1370487.htm) | [***来源***](https://www.aphis.usda.gov/aphis/newsroom/stakeholder-info/sa_by_date/sa-2023/white-tailed-deer-research-sars-cov-2) 
+- [美国农业部发布白尾鹿与人类之间COVID-19传播研究报告](https://www.cnbeta.com.tw/articles/science/1370487.htm) | [***来源***](https://www.aphis.usda.gov/aphis/newsroom/stakeholder-info/sa_by_date/sa-2023/white-tailed-deer-research-sars-cov-2)
+- [SARS-CoV-2像是特洛伊木马 研究人员弄清病毒如何闯入胎盘堡垒](https://www.cnbeta.com.tw/articles/science/1370723.htm)
 
 ### 成功（？）案例
 
