@@ -16,6 +16,7 @@
 - [美国农业部发布白尾鹿与人类之间COVID-19传播研究报告](https://www.cnbeta.com.tw/articles/science/1370487.htm) | [***来源***](https://www.aphis.usda.gov/aphis/newsroom/stakeholder-info/sa_by_date/sa-2023/white-tailed-deer-research-sars-cov-2)
 - [SARS-CoV-2像是特洛伊木马 研究人员弄清病毒如何闯入胎盘堡垒](https://www.cnbeta.com.tw/articles/science/1370723.htm)
 - [研究人员弄清COVID-19奥密克戎亚变异体如何进化以攻破肺部防御系统](https://www.cnbeta.com.tw/articles/science/1372117.htm)
+- [无声的后果：分析统计数据后发现COVID-19与高血压的发病有关](https://www.cnbeta.com.tw/articles/science/1378905.htm) | [***来源***](https://www.hcplive.com/view/study-finds-contracting-covid-19-could-lead-to-high-blood-pressure)
 
 ### 成功（？）案例
 
