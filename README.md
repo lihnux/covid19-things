@@ -4,6 +4,7 @@
 - [Coronavirus Disease 2019（美国CDC关于新冠的页面）](https://www.cdc.gov/coronavirus/2019-nCoV/index.html)
 - [COVID-19 early treatment（新冠的早期介入治疗的研究汇总页面）](https://c19early.org/)
 - [美国医学协会新冠信息汇总](https://www.ama-assn.org/delivering-care/public-health/covid-19-2019-novel-coronavirus-resource-center-physicians)
+- [NIH COVID-19 Research](https://covid19.nih.gov/)
 
 ## 新冠后遗症/长新冠/LONG COVID
 
@@ -17,6 +18,7 @@
 - [SARS-CoV-2像是特洛伊木马 研究人员弄清病毒如何闯入胎盘堡垒](https://www.cnbeta.com.tw/articles/science/1370723.htm)
 - [研究人员弄清COVID-19奥密克戎亚变异体如何进化以攻破肺部防御系统](https://www.cnbeta.com.tw/articles/science/1372117.htm)
 - [无声的后果：分析统计数据后发现COVID-19与高血压的发病有关](https://www.cnbeta.com.tw/articles/science/1378905.htm) | [***来源***](https://www.hcplive.com/view/study-finds-contracting-covid-19-could-lead-to-high-blood-pressure)
+- [研究发现SARS-CoV-2冠状病毒会直接攻击冠状动脉](https://www.cnbeta.com.tw/articles/science/1392323.htm) | [***来源***](https://www.nih.gov/news-events/nih-research-matters/how-sars-cov-2-contributes-heart-attacks-strokes)
 
 ### 成功（？）案例
 
