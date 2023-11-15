@@ -19,6 +19,7 @@
 - [研究人员弄清COVID-19奥密克戎亚变异体如何进化以攻破肺部防御系统](https://www.cnbeta.com.tw/articles/science/1372117.htm)
 - [无声的后果：分析统计数据后发现COVID-19与高血压的发病有关](https://www.cnbeta.com.tw/articles/science/1378905.htm) | [***来源***](https://www.hcplive.com/view/study-finds-contracting-covid-19-could-lead-to-high-blood-pressure)
 - [研究发现SARS-CoV-2冠状病毒会直接攻击冠状动脉](https://www.cnbeta.com.tw/articles/science/1392323.htm) | [***来源***](https://www.nih.gov/news-events/nih-research-matters/how-sars-cov-2-contributes-heart-attacks-strokes)
+- [基因优势：揭开COVID-19"超级躲避者"的秘密](https://www.cnbeta.com.tw/articles/science/1396963.htm) | [***来源***](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(23)00295-3/fulltext)
 
 ### 成功（？）案例
 
