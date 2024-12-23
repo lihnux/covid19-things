@@ -22,3 +22,4 @@
 - [基因优势：揭开COVID-19"超级躲避者"的秘密](https://www.cnbeta.com.tw/articles/science/1396963.htm) | [***来源***](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(23)00295-3/fulltext)
 - [研究发现COVID-19感染后的铁含量和炎症与Long-COVID有关](https://www.cnbeta.com.tw/articles/science/1425663.htm) | [***来源***](https://scitechdaily.com/the-iron-twist-the-unexpected-driver-of-long-covid/)
 - [科学家发现隐藏已久的Long-COVID病例 使之前的估计值增加三倍](https://www.cnbeta.com.tw/articles/science/1456008.htm) | [***来源***](https://doi.org/10.1016/j.medj.2024.10.009)
+- [残留的病毒碎片是Long-COVID的隐藏病因](https://www.cnbeta.com.tw/articles/science/1464622.htm)
